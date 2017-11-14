@@ -2,7 +2,7 @@
 
 # SAP PowerShell Scripts
 
-The PowerShell scrips located in [SAPScripts.psm1](https://github.com/goraco/sap-powershell/blob/master/SAPScripts.psm1) file, contains command lets for updating SAP profiles.  
+The PowerShell scrips located in [SAPScripts.psm1](https://github.com/Azure-Samples/sap-powershell/blob/master/SAPScripts.psm1) file, contains command lets for updating SAP profiles.  
 
 This is needed when you configure SAP high availability on Microsoft Failover Cluster using file share, as documented in [SAP NetWeaver HA Installation on Windows Failover Cluster and File Share for SAP (A)SCS Instance on Azure][sap-ha-file-share-installation]
 
